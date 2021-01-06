@@ -6,7 +6,7 @@
 
 <br>
 
-| Subject Code       | Name | Date |
+| Subject Code       | Name | Term|
 | :---:       |    :----:  | :----:|
 | [COS110](https://github.com/EricaFer/COS110)  | Algorithms and Programming   |   2018.1 | 
 | [COE240](https://github.com/EricaFer/COE240) |  Dynamic Systems Modelling  | 2020.1|      

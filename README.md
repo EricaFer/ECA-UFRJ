@@ -12,5 +12,5 @@
 | [COE240](https://github.com/EricaFer/COE240) |  Dynamic Systems Modelling  | 2020.1|      
 | [COC351](https://github.com/EricaFer/COC351) | Computational Mathematics | 2020.1 | 
 | [COC351](https://github.com/EricaFer/COC351) | Introduction to Optimization | 2020.2 |
-| [COM361](https://github.com/EricaFer/COM361) | Programming Languages | 2020.2 | 
+| [EEL670](https://github.com/EricaFer/COM361) | Programming Languages | 2020.2 | 
   

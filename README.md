@@ -13,5 +13,4 @@
 | [COC351](https://github.com/EricaFer/COC351) | Computational Mathematics | 2020.1 | 
 | [COC351](https://github.com/EricaFer/COC351) | Introduction to Optimization | 2020.2 |
 | [COM361](https://github.com/EricaFer/COM361) | Programming Languages | 2020.2 | 
-| [COE360](https://github.com/EricaFer/COE360) | Feedback Control | 2020.2 | 
   

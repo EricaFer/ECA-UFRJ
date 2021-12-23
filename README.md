@@ -13,4 +13,5 @@
 | [COC351](https://github.com/EricaFer/ECA-UFRJ/tree/main/COC351) | Computational Mathematics | 2020.1 | 
 | [COM361](https://github.com/EricaFer/ECA-UFRJ/tree/main/COM361) | Introduction to Optimization | 2020.2 |
 | [EEL670](https://github.com/EricaFer/ECA-UFRJ/tree/main/EEL670) | Programming Languages | 2020.2 | 
+| [FIN231](https://github.com/EricaFer/ECA-UFRJ/tree/main/FIN231) | Experimental Physics 3 | 2021.2 | 
   

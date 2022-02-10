@@ -14,5 +14,6 @@
 | [COM361](https://github.com/EricaFer/ECA-UFRJ/tree/main/COM361) | Introduction to Optimization | 2020.2 |
 | [EEL670](https://github.com/EricaFer/ECA-UFRJ/tree/main/EEL670) | Programming Languages | 2020.2 | 
 | [FIN231](https://github.com/EricaFer/ECA-UFRJ/tree/main/FIN231) | Experimental Physics 3 | 2021.2 | 
-| [EEL711](https://github.com/EricaFer/ECA-UFRJ/tree/main/EEL711) | Signal Processing | 2021.2 |   
+| [EEL711](https://github.com/EricaFer/ECA-UFRJ/tree/main/EEL711) | Signal Processing | 2021.2 |  
+| [EEL855](https://github.com/EricaFer/ECA-UFRJ/tree/main/EEL855) | Robotics and Automation | 2021.2 |  
   

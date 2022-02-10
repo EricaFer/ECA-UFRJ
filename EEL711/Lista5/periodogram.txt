@@ -1,0 +1,6 @@
+>> Fs = 1000;
+>> n = 0:2048; %número de amostras
+>> N = [64,128,256,512]; %tamanho das janelas
+>> v = randn(size(n)); %ruído branco
+>> x = 0.1*sin(0.2*pi*n) + sin(0.3*pi*n) + 0.1*sin(0.31*pi*n) + v; 
+>> pwelch(x,hamming(N(1)),[],Fs);
